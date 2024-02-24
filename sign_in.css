@@ -2,26 +2,24 @@
   background-color: rgb(241, 229, 233);
 }
 
+
 #signIn-main {
   box-shadow: 1px 3px 4px 2px;
-  
 }
-
 
 #rights p {
   background-color: rgb(41, 41, 41);
 }
 
-
-input:hover{
+input:hover {
   box-shadow: 10px 10px 53px 0px rgba(0, 0, 0, 0.49);
   transform: scale(1.02);
   transition: 0.5s;
 }
+
 #loginWithGoogleBtn:hover,
 #signin:hover,
 #sign-up:hover {
-  
   transform: scale(1.02);
   transition: 0.5s;
 }
@@ -29,8 +27,6 @@ input:hover{
 #signup-form {
   box-shadow: 1px 3px 4px 2px;
 }
-
-
 
 #signup-btn:hover,
 #sign-in:hover,
