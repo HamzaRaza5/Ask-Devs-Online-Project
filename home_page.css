@@ -1,0 +1,19 @@
+.posts{
+  background-color: rgb(241, 229, 233);
+border-radius: 10px;
+border: none;
+}
+#posted{
+  border-top: 1px solid black;
+}
+#ask-question:hover, #home-page-logo:hover {
+  box-shadow: 10px 10px 53px 0px rgba(0, 0, 0, 0.49);
+  transform: scale(1.09);
+  transition: 0.5s;
+} 
+
+#logoutBtn:hover {
+    box-shadow: 10px 10px 53px 0px rgba(0, 0, 0, 0.49);
+    transform: scale(1.01);
+    transition: 0.5s;
+}
